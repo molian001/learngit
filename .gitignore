@@ -1,0 +1,3 @@
+git config --global default.name="molian001"
+
+git config --global default.email="1005684318@qq.com"
